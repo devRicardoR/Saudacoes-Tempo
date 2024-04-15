@@ -1,0 +1,40 @@
+body{
+background: rgb(15, 15, 170);
+font: normal 15pt Arial;
+
+}
+
+header {
+color: rgb(128, 4, 4);
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+font-style: italic;
+font-weight: bold;
+}
+
+section{
+background: white;
+border-radius: 10px;
+padding: 15px;
+width: 500px;
+margin: auto;
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.527);
+
+}
+
+div {
+    text-align: center;
+    padding: 8px;
+}
+
+#msg {
+    font-family: 'Times New Roman', Times, serif; /* Defina a fonte desejada */
+    font-style: italic; /* Itálico */
+    font-weight: bold; /* Negrito */
+}
+
+footer{
+color: rgb(128, 4, 4);
+text-align: center;
+font-style: italic;
+}
